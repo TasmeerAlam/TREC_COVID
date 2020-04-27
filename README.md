@@ -1,0 +1,2 @@
+# TREC_COVID
+TREC-COVID challange
